@@ -1,0 +1,20 @@
+.grid{
+    display: grid;
+    grid-template-rows: 150px 150px 150px;
+    grid-template-columns: 150px 150px 150px;
+    /* background-color: #11213a;
+    color: #04c0b2; */
+}
+
+.box{
+    background:white;
+    border: 1.2px solid rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(129, 34, 123);
+}
+
+/* .box:hover{
+    background-color:aqua;
+} */
